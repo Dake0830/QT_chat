@@ -1,0 +1,16 @@
+release/handler.o
+release/streamer.o
+release/chatroomwidget.o
+release/client.o
+release/clienthandler.o
+release/giftwidget.o
+release/loginwidget.o
+release/main.o
+release/roomcreatwidget.o
+release/roomwidget.o
+release/moc_chatroomwidget.o
+release/moc_client.o
+release/moc_giftwidget.o
+release/moc_loginwidget.o
+release/moc_roomcreatwidget.o
+release/moc_roomwidget.o

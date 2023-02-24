@@ -1,0 +1,16 @@
+debug/handler.o
+debug/streamer.o
+debug/chatroomwidget.o
+debug/client.o
+debug/clienthandler.o
+debug/giftwidget.o
+debug/loginwidget.o
+debug/main.o
+debug/roomcreatwidget.o
+debug/roomwidget.o
+debug/moc_chatroomwidget.o
+debug/moc_client.o
+debug/moc_giftwidget.o
+debug/moc_loginwidget.o
+debug/moc_roomcreatwidget.o
+debug/moc_roomwidget.o

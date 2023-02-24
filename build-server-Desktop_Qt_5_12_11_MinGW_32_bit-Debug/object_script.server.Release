@@ -1,0 +1,11 @@
+release/handler.o
+release/streamer.o
+release/main.o
+release/roommanager.o
+release/server.o
+release/serverhandler.o
+release/socket.o
+release/socketmanager.o
+release/sqldao.o
+release/moc_server.o
+release/moc_socket.o
